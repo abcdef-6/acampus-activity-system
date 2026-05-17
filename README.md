@@ -20,4 +20,5 @@
 ## 分支策略
 - main    : 稳定版本，仅接收合并
 - dev     : 开发集成分支
+- feature :开发集成分支
 - feature/wbs
