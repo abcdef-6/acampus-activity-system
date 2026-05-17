@@ -5,7 +5,7 @@
 
 ## 团队成员
 - 刘佰雄（liubaixiong）：项目经理 + 配置管理员
-- 阿卜杜卡哈尔.买买提吐尔逊（abudukahaermaimaitituerxun）：计划负责人 + 协作成员
+- 阿卜杜卡哈尔.买买提吐尔逊（Abdukahar）：计划负责人 + 协作成员
 
 ## 目录结构说明
 - docs/      项目管理文档
